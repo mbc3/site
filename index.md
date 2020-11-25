@@ -10,7 +10,7 @@ My writing has appeared in McSweeney's, The Onion, College Humor, Splitsider, Tr
 
 I'm currently a co-creator and writer for [Functionally Dead](https://www.functionallydead.com), a leftist comedy zine.
 
-I wrote a short story collection called Nein Stories that I released for free.
+I wrote a short story collection called [Nein Stories](/neinstories.md) that I released for free.
 
 I co-created and ran a humor magazine called [Janice](https://www.janicemag.com), which put out two print issues and regularly updated with online content for years. It is now defunct.
 
