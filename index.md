@@ -5,7 +5,7 @@ title: Matthew Brian Cohen
 
 # Bio
 
-![Matthew Brian Cohen - headshot](/assets/headshot2_web_crop.jpg)
+![Matthew Brian Cohen - headshot](/headshot2_web_crop.jpg)
 
 I write, perform, and direct at the Upright Citzens' Brigade Theater in Los Angeles, and formerly New York. Here's my UCB comedy profile if that matters to you: [http://www.ucbcomedy.com/user/7029](http://www.ucbcomedy.com/user/7029)
 
