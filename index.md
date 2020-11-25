@@ -1,8 +1,3 @@
----
-layout: home
-title: Matthew Brian Cohen
----
-
 # Bio
 
 ![Matthew Brian Cohen - headshot](/headshot2_web_crop.jpg)
